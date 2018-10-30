@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\bin\Debug\DividirStrings.exe.config
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\bin\Debug\DividirStrings.exe
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\bin\Debug\DividirStrings.pdb
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\obj\Debug\DividirStrings.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\obj\Debug\DividirStrings.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\obj\Debug\DividirStrings.exe
+C:\Users\leonardo\source\repos\DividirStrings\DividirStrings\obj\Debug\DividirStrings.pdb
