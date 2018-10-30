@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\bin\Debug\folhaPagamento.exe.config
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\bin\Debug\folhaPagamento.exe
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\bin\Debug\folhaPagamento.pdb
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\obj\Debug\folhaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\obj\Debug\folhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\obj\Debug\folhaPagamento.exe
+C:\Users\leonardo\source\repos\folhaPagamento\folhaPagamento\obj\Debug\folhaPagamento.pdb

@@ -1,0 +1,10 @@
+D:\formulario\formulario\bin\Debug\formulario.exe.config
+D:\formulario\formulario\bin\Debug\formulario.exe
+D:\formulario\formulario\bin\Debug\formulario.pdb
+D:\formulario\formulario\obj\Debug\formulario.csprojAssemblyReference.cache
+D:\formulario\formulario\obj\Debug\formulario.Form1.resources
+D:\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+D:\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+D:\formulario\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+D:\formulario\formulario\obj\Debug\formulario.exe
+D:\formulario\formulario\obj\Debug\formulario.pdb
