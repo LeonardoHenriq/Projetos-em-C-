@@ -1,0 +1,24 @@
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.xml
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Autoclicker.resources
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Resources.resources
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.xml
+C:\Users\leonardo\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
+D:\Projetos C#\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+D:\Projetos C#\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+D:\Projetos C#\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+D:\Projetos C#\Autoclicker\Autoclicker\bin\Debug\Autoclicker.xml
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbprojResolveAssemblyReference.cache
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Autoclicker.resources
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Resources.resources
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbproj.GenerateResource.cache
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.vbproj.CoreCompileInputs.cache
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.xml
+D:\Projetos C#\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
