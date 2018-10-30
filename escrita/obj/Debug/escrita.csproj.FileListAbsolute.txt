@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\escrita\escrita\bin\Debug\escrita.exe.config
+C:\Users\leonardo\source\repos\escrita\escrita\bin\Debug\escrita.exe
+C:\Users\leonardo\source\repos\escrita\escrita\bin\Debug\escrita.pdb
+C:\Users\leonardo\source\repos\escrita\escrita\obj\Debug\escrita.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\escrita\escrita\obj\Debug\escrita.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\escrita\escrita\obj\Debug\escrita.exe
+C:\Users\leonardo\source\repos\escrita\escrita\obj\Debug\escrita.pdb
