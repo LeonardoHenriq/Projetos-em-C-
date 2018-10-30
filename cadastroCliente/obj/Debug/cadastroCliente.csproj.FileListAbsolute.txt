@@ -1,0 +1,20 @@
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe.config
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.pdb
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Form1.resources
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Properties.Resources.resources
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.exe
+C:\Users\leonardo\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.pdb
+D:\Projetos C#\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe.config
+D:\Projetos C#\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe
+D:\Projetos C#\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.pdb
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csprojResolveAssemblyReference.cache
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Properties.Resources.resources
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.GenerateResource.cache
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.CoreCompileInputs.cache
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.exe
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.pdb
+D:\Projetos C#\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Cadastro_Cliente.resources
