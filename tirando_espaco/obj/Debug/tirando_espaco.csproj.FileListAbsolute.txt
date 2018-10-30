@@ -1,0 +1,10 @@
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\bin\Debug\tirando_espaco.exe.config
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\bin\Debug\tirando_espaco.exe
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\bin\Debug\tirando_espaco.pdb
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.Form1.resources
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.Properties.Resources.resources
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.exe
+C:\Users\leonardo\source\repos\tirando_espaco\tirando_espaco\obj\Debug\tirando_espaco.pdb

@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\bin\Debug\Vender.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\bin\Debug\Vender.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\bin\Debug\Vender.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Vender\Vender\obj\Debug\Vender.pdb
