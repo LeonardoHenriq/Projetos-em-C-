@@ -1,0 +1,20 @@
+c:\users\leonardo\source\repos\LBrowser\LBrowser\bin\Debug\LBrowser.exe.config
+c:\users\leonardo\source\repos\LBrowser\LBrowser\bin\Debug\LBrowser.exe
+c:\users\leonardo\source\repos\LBrowser\LBrowser\bin\Debug\LBrowser.pdb
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.csprojResolveAssemblyReference.cache
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.Form1.resources
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.Properties.Resources.resources
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.csproj.GenerateResource.cache
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.csproj.CoreCompileInputs.cache
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.exe
+c:\users\leonardo\source\repos\LBrowser\LBrowser\obj\Debug\LBrowser.pdb
+D:\Projetos C#\LBrowser\LBrowser\bin\Debug\LBrowser.exe.config
+D:\Projetos C#\LBrowser\LBrowser\bin\Debug\LBrowser.exe
+D:\Projetos C#\LBrowser\LBrowser\bin\Debug\LBrowser.pdb
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.csprojResolveAssemblyReference.cache
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.Form1.resources
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.Properties.Resources.resources
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.csproj.GenerateResource.cache
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.csproj.CoreCompileInputs.cache
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.exe
+D:\Projetos C#\LBrowser\LBrowser\obj\Debug\LBrowser.pdb

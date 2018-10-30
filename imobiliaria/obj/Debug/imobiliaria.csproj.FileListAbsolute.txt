@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\bin\Debug\imobiliaria.exe.config
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\bin\Debug\imobiliaria.exe
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\bin\Debug\imobiliaria.pdb
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\obj\Debug\imobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\obj\Debug\imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\obj\Debug\imobiliaria.exe
+C:\Users\leonardo\source\repos\imobiliaria\imobiliaria\obj\Debug\imobiliaria.pdb

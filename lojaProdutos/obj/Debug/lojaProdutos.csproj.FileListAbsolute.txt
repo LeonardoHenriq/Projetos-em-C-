@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\bin\Debug\lojaProdutos.exe.config
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\bin\Debug\lojaProdutos.exe
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\bin\Debug\lojaProdutos.pdb
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\obj\Debug\lojaProdutos.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\obj\Debug\lojaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\obj\Debug\lojaProdutos.exe
+C:\Users\leonardo\source\repos\lojaProdutos\lojaProdutos\obj\Debug\lojaProdutos.pdb

@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\bin\Debug\leituradedados.exe.config
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\bin\Debug\leituradedados.exe
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\bin\Debug\leituradedados.pdb
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\obj\Debug\leituradedados.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\obj\Debug\leituradedados.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\obj\Debug\leituradedados.exe
+C:\Users\leonardo\source\repos\leituradedados\leituradedados\obj\Debug\leituradedados.pdb
