@@ -1,0 +1,10 @@
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\bin\Debug\WinCalculadora.exe.config
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\bin\Debug\WinCalculadora.exe
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\bin\Debug\WinCalculadora.pdb
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.Form1.resources
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.Properties.Resources.resources
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.exe
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.pdb
+C:\Users\leonardo\source\repos\WinCalculadora\WinCalculadora\obj\Debug\WinCalculadora.csprojResolveAssemblyReference.cache
