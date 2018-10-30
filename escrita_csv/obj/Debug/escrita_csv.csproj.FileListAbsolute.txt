@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\bin\Debug\escrita_csv.exe.config
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\bin\Debug\escrita_csv.exe
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\bin\Debug\escrita_csv.pdb
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\obj\Debug\escrita_csv.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\obj\Debug\escrita_csv.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\obj\Debug\escrita_csv.exe
+C:\Users\leonardo\source\repos\escrita_csv\escrita_csv\obj\Debug\escrita_csv.pdb
