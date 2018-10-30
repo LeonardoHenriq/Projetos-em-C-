@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\bin\Debug\PassagemAerea.exe.config
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\bin\Debug\PassagemAerea.exe
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\bin\Debug\PassagemAerea.pdb
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\obj\Debug\PassagemAerea.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\obj\Debug\PassagemAerea.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\obj\Debug\PassagemAerea.exe
+C:\Users\leonardo\source\repos\PassagemAerea\PassagemAerea\obj\Debug\PassagemAerea.pdb
