@@ -1,0 +1,7 @@
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\bin\Debug\chainResponsability.exe.config
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\bin\Debug\chainResponsability.exe
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\bin\Debug\chainResponsability.pdb
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\obj\Debug\chainResponsability.csprojResolveAssemblyReference.cache
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\obj\Debug\chainResponsability.csproj.CoreCompileInputs.cache
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\obj\Debug\chainResponsability.exe
+c:\users\leonardo\source\repos\chainResponsability\chainResponsability\obj\Debug\chainResponsability.pdb
