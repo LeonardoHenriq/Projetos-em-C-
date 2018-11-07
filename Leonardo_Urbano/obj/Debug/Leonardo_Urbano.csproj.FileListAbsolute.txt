@@ -1,0 +1,12 @@
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\bin\Debug\Leonardo_Urbano.exe.config
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\bin\Debug\Leonardo_Urbano.exe
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\bin\Debug\Leonardo_Urbano.pdb
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.FrmCliente.resources
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.Properties.Resources.resources
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.csproj.GenerateResource.cache
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.exe
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.pdb
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.FrmMenu.resources
+C:\Users\leonardo\Desktop\Trabalho LTP1 Final\Leonardo_Urbano\Leonardo_Urbano\obj\Debug\Leonardo_Urbano.FrmVendas.resources
