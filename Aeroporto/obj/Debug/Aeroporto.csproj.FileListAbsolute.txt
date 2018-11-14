@@ -1,0 +1,7 @@
+D:\Projetos C#\Aeroporto\Aeroporto\bin\Debug\Aeroporto.exe.config
+D:\Projetos C#\Aeroporto\Aeroporto\bin\Debug\Aeroporto.exe
+D:\Projetos C#\Aeroporto\Aeroporto\bin\Debug\Aeroporto.pdb
+D:\Projetos C#\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csprojResolveAssemblyReference.cache
+D:\Projetos C#\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Aeroporto\Aeroporto\obj\Debug\Aeroporto.exe
+D:\Projetos C#\Aeroporto\Aeroporto\obj\Debug\Aeroporto.pdb
