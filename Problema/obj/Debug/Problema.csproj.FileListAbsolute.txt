@@ -1,0 +1,7 @@
+D:\Projetos C#\Problema\Problema\obj\Debug\Problema.csprojResolveAssemblyReference.cache
+D:\Projetos C#\Problema\Problema\obj\Debug\Problema.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Problema\Problema\bin\Debug\Problema.exe.config
+D:\Projetos C#\Problema\Problema\bin\Debug\Problema.exe
+D:\Projetos C#\Problema\Problema\bin\Debug\Problema.pdb
+D:\Projetos C#\Problema\Problema\obj\Debug\Problema.exe
+D:\Projetos C#\Problema\Problema\obj\Debug\Problema.pdb
